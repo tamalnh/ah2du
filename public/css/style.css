@@ -1,0 +1,16 @@
+.app{
+    width: 500px;
+    margin: 0 auto;
+    background: #ddd;
+    padding: 10px
+}
+
+.todo-items {
+    border: 1px solid #fff;
+    margin-top: 20px;
+    padding-left: 50px
+}
+
+.app input, button {
+    margin-left: 5px;
+}
